@@ -1,0 +1,115 @@
+.footer{
+    background-color: rgb(251,224,251);
+    height: 350px;
+}
+.form2 p{
+    margin-left: -10px;
+}
+.form2 p{
+    font-size: 19px;
+}
+.form3{
+    display: flex; 
+    justify-content: space-between; 
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.form3 input{
+    margin-top: 10px;
+    width: 365px;
+    height: 33px;
+    border-radius: 5px;
+    margin-left: 464px;
+    background: transparent;
+}
+.form3 button{
+    margin-right: 402px;
+    height: 38px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: transparent;
+}
+.icon img{
+    border-radius: 30%;
+    height: 30px;
+    width: 30px;
+    margin-top: 30px;
+}
+.contact ul{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    padding-top: 30px;
+    margin-left: 470px;
+}
+.under ul{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    padding-top: 10px;
+    margin-left: 335px;
+}
+.form3 input::placeholder {
+    padding-left: 10px;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    margin-right: 37px;
+    padding-top: 37px
+
+  }
+
+  .navbar a{
+    text-decoration: none;
+    color: black;
+  }
+.navbar ul li :hover{
+  color: rgb(100, 72, 72);
+  }
+
+.button1 {
+    height: 37px;
+    border-radius: 10px;
+    color: white;
+    font-family: sans-serif;
+    background-color: black;
+    font-size: 16px;
+    padding: 0px 4px 0px 4px;
+    border: none;
+    width: 100px;
+  }
+  .button1:hover{
+      background: rgba(0, 0, 0, 0.705);
+    }
+
+  .button2 {
+    height: 37px;
+    border-radius: 10px;
+    color: black;
+    font-family: sans-serif;
+    background-color: white;
+    font-size: 16px;
+    padding: 0px 4px 0px 4px;
+    border: none;
+    width: 130px;
+  }
+  .button2:hover{
+      background-color: rgb(255,228,225);
+    }
+  .button1 a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .button2 a {
+    text-decoration: none;
+    color: black;
+  }
+  .btn1{
+    gap: 10px;
+  }
+

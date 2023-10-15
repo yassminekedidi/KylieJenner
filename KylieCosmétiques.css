@@ -1,0 +1,167 @@
+/* KylieCosmétiques */
+.espace1 {
+    display: flex;
+    justify-content: space-between;
+    background: mistyrose;
+    margin-top: -4px;
+    width: 100%;
+    height: 90px;
+  }
+
+  .espace1 ul {
+    display: flex;
+    justify-content: space-between;
+    width: 39%;
+  }
+
+  .espace1 li {
+    list-style: none;
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-top: 36px;
+    margin-left: 35px;
+    text-decoration-line: underline;
+  }
+  .espace1 li a:hover{
+    color: rgb(100, 72, 72);
+  }
+  .espace1 a{
+    text-decoration: none;
+    color: black;
+  }
+  .pannier1 button {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px;
+    width: 75%;
+    border-radius: 10%;
+    color: black;
+    align-items: center;
+    margin-right: 55px;
+    background: whitesmoke;
+    margin-top: 25px;
+    height: 40px;
+  }
+  .pannier1 button:hover{
+    background-color: rgb(255,182,193);
+  }
+  .pannier1 img {
+    height: 20px;
+    width: 20px;
+    padding: 5px 5px 5px 5px;
+  }
+
+  .pannier1 p {
+    font-size: 15px;
+    color: black;
+    border-radius: 10%;
+    border: none;
+    padding: 5px 5px 5px 0px;
+  }
+  .backgd3 {
+    background-color: mistyrose;
+    margin-top: 0px;
+    width: 100%;
+    gap: 0;
+  }
+  .esp1 {
+    display: flex;
+    justify-content: space-between;
+    background-color: mistyrose;
+  }
+  .return{
+    background-color: mistyrose;
+    margin-top: 21px;
+    width: 27%;
+    color: #4b4b4b;
+    font-size: 16px;
+  }
+  .return a{
+    text-decoration: none;
+    color: rgb(75, 75, 75);
+    text-decoration: underline;
+  }
+  .backgd2 {
+    background-color: mistyrose;
+    margin-top: -1px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .cart {
+    border-radius: 15px;
+    border: 1px solid black;
+    width: 300px;
+    position: relative;
+    margin-left: 24px;
+    margin-top: 40px;
+    background-color: white;
+    
+  }
+
+  .mySlides img {
+    width: 100%;
+    border-radius: 15px;
+  }
+  .numbertext {
+    color: white;
+    font-size: 12px;
+    padding: 2px 5px;
+    position: absolute;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.74);
+    border-radius: 4px;
+    margin-top: 8px;
+    margin-left: 8px;
+    letter-spacing: 0.2px;
+  }
+
+  .text span {
+    color: gray;
+    font-size: 12px;
+  }
+
+  .text {
+    margin-top: -1px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    margin-left: 9px;
+    font-family: sans-serif;
+  }
+
+  .text h5 {
+    font-size: 15px;
+  }
+
+  .text h4 {
+    font-size: 20px;
+    margin-top: 5px;
+  }
+
+  .star {
+    margin-top: 0px;
+    margin-left: 9px;
+  }
+
+  .btn {
+    text-align: center;
+  }
+  .btn button:hover{
+    background: rgba(0, 0, 0, 0.860);
+  }
+
+  .btn button {
+    border-radius:0px 0px 15px 15px;
+    width: 100%;
+    height: 43px;
+    background-color: rgba(0, 0, 0, 0.93);
+    color: white;
+    border: none;
+    letter-spacing: 0.5px;
+  }
+
+  .esp {
+    display: flex;
+    justify-content: space-between;
+  }
